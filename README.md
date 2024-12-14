@@ -1,7 +1,7 @@
 # SPY Mouse
 This is an archive of 2011 mobile game "SPY Mouse." 
 
-A casual and strategy path-drawing styled game that is rather unique compared to other mobile games. 
+A casual and strategy path-drawing styled game in which the player's objective is to collect cheeses while navigating obstacles and avoiding cats as well as obstacles by using mouse holes and pipes that attempt to sabotage the player's objective.
 
 This is simply just an archive of the game and to ensure that it won't turn into lost media if something goes wrong.
 
