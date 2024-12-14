@@ -1,3 +1,6 @@
+# THIS IS STILL IN A WORK IN PROGRESS STATE
+Changes could happen at any time, so expect for changes to come in this repository.
+
 # SPY Mouse
 This is an archive of 2011 mobile game "SPY Mouse." 
 
